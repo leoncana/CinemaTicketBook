@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PSosToX19CdU5t1mQT172mSBLP+NnwowNsLA7l+5KlnVftn9CwIlcoGW13eddo856vw+Yw6UNO8fsXO3uorxXg==",
+  "dgSpecHash": "1KwDyciMi0W3z4WmZJB4YFb/r+W15cR5yN/NyHXQywfjUqUepedaEwjtgCYz8xPeLAGZL15alBgd9Xz85aR/4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leonc\\OneDrive\\Desktop\\moviebackend\\Movie\\Movie.csproj",
+  "projectFilePath": "C:\\Users\\leonc\\Downloads\\wetransfer_movieticket_2024-04-28_2251\\MovieTicket\\Movie\\Movie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leonc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\leonc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

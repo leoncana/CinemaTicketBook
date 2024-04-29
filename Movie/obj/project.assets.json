@@ -12474,11 +12474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leonc\\OneDrive\\Desktop\\moviebackend\\Movie\\Movie.csproj",
+      "projectUniqueName": "C:\\Users\\leonc\\Downloads\\wetransfer_movieticket_2024-04-28_2251\\MovieTicket\\Movie\\Movie.csproj",
       "projectName": "Movie",
-      "projectPath": "C:\\Users\\leonc\\OneDrive\\Desktop\\moviebackend\\Movie\\Movie.csproj",
+      "projectPath": "C:\\Users\\leonc\\Downloads\\wetransfer_movieticket_2024-04-28_2251\\MovieTicket\\Movie\\Movie.csproj",
       "packagesPath": "C:\\Users\\leonc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leonc\\OneDrive\\Desktop\\moviebackend\\Movie\\obj\\",
+      "outputPath": "C:\\Users\\leonc\\Downloads\\wetransfer_movieticket_2024-04-28_2251\\MovieTicket\\Movie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leonc\\AppData\\Roaming\\NuGet\\NuGet.Config",
