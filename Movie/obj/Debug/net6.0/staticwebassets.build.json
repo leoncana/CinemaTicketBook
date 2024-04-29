@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "8vN52p1mFx2YLLkHaID5VL6Hpl45Nv+B41KxgSBCjaY=",
+  "Source": "Movie",
+  "BasePath": "_content/Movie",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Movie\\wwwroot",
+      "Source": "Movie",
+      "ContentRoot": "C:\\Users\\fatli\\OneDrive\\Desktop\\MovieTicked\\Movie\\wwwroot\\",
+      "BasePath": "_content/Movie",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\fatli\\OneDrive\\Desktop\\MovieTicked\\Movie\\wwwroot\\images\\b2647e41-0a2c-42c7-9295-db5f79415bb2 - hehe.jpg",
+      "SourceId": "Movie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fatli\\OneDrive\\Desktop\\MovieTicked\\Movie\\wwwroot\\",
+      "BasePath": "_content/Movie",
+      "RelativePath": "images/b2647e41-0a2c-42c7-9295-db5f79415bb2 - hehe.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b2647e41-0a2c-42c7-9295-db5f79415bb2 - hehe.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\fatli\\OneDrive\\Desktop\\MovieTicked\\Movie\\wwwroot\\images\\d64c426b-823e-40cc-a74c-2394d2f8f689 - hehe.jpg",
+      "SourceId": "Movie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fatli\\OneDrive\\Desktop\\MovieTicked\\Movie\\wwwroot\\",
+      "BasePath": "_content/Movie",
+      "RelativePath": "images/d64c426b-823e-40cc-a74c-2394d2f8f689 - hehe.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d64c426b-823e-40cc-a74c-2394d2f8f689 - hehe.jpg"
+    }
+  ]
+}
